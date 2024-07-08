@@ -19,9 +19,9 @@ tracks:
     name: diffbot
     patches: null
     release_inc: '1'
-    release_repo_url: null
+    release_repo_url: https://github.com/cmtislam/diffbot_description-release.git
     release_tag: :{version}
     ros_distro: noetic
     vcs_type: git
-    vcs_uri: https://github.com/ros-mobile-robots/diffbot.git
+    vcs_uri: https://github.com/cmtislam/diffbot.git
     version: :{auto}
